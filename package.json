@@ -1,7 +1,7 @@
 {
   "name": "steamparcer",
   "version": "1.0.0",
-  "description": "",
+  "description": "![Project](https://github.com/iconini13ya/SteamParcer/blob/master/Project.png)\r ## Have a nice result\r ![Result](https://github.com/iconini13ya/SteamParcer/blob/master/Result.png)",
   "main": "parcer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
-    "needle": "^2.5.0"
-  }
+    "needle": "^2.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iconini13ya/SteamParcer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iconini13ya/SteamParcer/issues"
+  },
+  "homepage": "https://github.com/iconini13ya/SteamParcer#readme"
 }
